@@ -1,2 +1,7 @@
 # social-media-best-practices
-Documentation of best practices
+
+
+Inspired by all-in-all [Krish Ashok](https://twitter.com/krishashok)
+
+
+Contributions most welcome. open a PR.
